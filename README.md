@@ -1,4 +1,4 @@
-# AI-Powered School Equity & Resource Allocation Analyzer
+#School Equity & Resource Allocation Analyzer
 
 ## Problem Statement
 Educational inequality persists across schools due to uneven resource allocation, socioeconomic differences, and systemic factors. This project aims to analyze disparities and recommend resource allocation strategies to promote equity.
